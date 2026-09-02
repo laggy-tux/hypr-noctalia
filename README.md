@@ -1,4 +1,4 @@
-# Hyper - Config (lua files)
+# Hyprland and Noctalia config files
 
 Wallpaper repo - https://github.com/Joao2Pereira1/Wallpapers
 
